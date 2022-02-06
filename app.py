@@ -6,7 +6,7 @@
 
 
 import numpy as np
-import pickle
+import joblib
 
 
 
@@ -37,7 +37,7 @@ I'm highly passionate about Data Science and intending to pursue a career in Big
 github link - https://github.com/pramod1998-hash
      ''')
 
-model = pickle.load(open('modelf.pkl', 'rb'))
+model = joblib.load(open('modelf.pkl', 'rb'))
 
 
 
