@@ -6,4 +6,4 @@ scipy
 scikit-learn
 matplotlib
 joblib
-streamlit
+streamlit==1.18.1
