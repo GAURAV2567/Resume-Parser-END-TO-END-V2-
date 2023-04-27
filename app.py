@@ -41,7 +41,7 @@ model = joblib.load(open('modelf.pkl', 'rb'))
 
 
 
-st.write('**Summary Submitted**:\n', txt)
+st.write("**Summary Submitted**:\n", txt)
 
 int_features = [txt]
 #st.write(int_features)
