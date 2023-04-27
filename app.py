@@ -34,7 +34,7 @@ Has a good understanding of SQL and also has good Data Visualisation skills,
 and has worked with tools like Tableau and Python libraries such as Numpy and Pandas,
 Scikit learn, Matplotlib and Seaborn. 
 I'm highly passionate about Data Science and intending to pursue a career in Big data/Data Scientist. 
-github link - https://github.com/pramod1998-hash
+github link
      ''')
 
 model = joblib.load(open('modelf.pkl', 'rb'))
