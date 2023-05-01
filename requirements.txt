@@ -1,4 +1,5 @@
 streamlit==1.18.1
+st-annotated-text
 spacy==3.0
 openpyxl
 pandas
