@@ -1,11 +1,7 @@
 # Resume-Parser-END-TO-END-V2-
 Upgraded the UI
 
-**APP LINK**: https://resume-parser-ver2.herokuapp.com/
-Link is down due to removal of Heroku free tier on Nov 2022
-
-**APP PREVIEW**
-![alt text](https://github.com/GAURAV2567/Resume-Parser-END-TO-END-V2-/blob/main/Preview.png)
+**APP LINK**: https://gaurav2567-resume-parser-end-to-end-v2--app-d71r2e.streamlit.app/
 
 # Resume-Parser-END-TO-END
 
