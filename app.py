@@ -38,11 +38,7 @@ Scikit learn, Matplotlib and Seaborn.
 I'm highly passionate about Data Science and intending to pursue a career in Big data/Data Scientist. 
 github''')
 
-import pickle
-
-with open('modelf.pkl', 'rb') as f:
-    model = pickle.load(f)
-
+model = joblib.load(open('modelf.pkl', 'rb'))
 
 
 st.write("**Summary Submitted**:\n", txt)
